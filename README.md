@@ -21,9 +21,11 @@ To run this project, you will need:
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/Raghavk17/sudoku-game.git
-   cd sudoku-game
+  
+   git clone https://github.com/username/repository-name.git
+
+   cd repository-name
+
 Compile the code:
 Copy code
 g++ -o sudoku main.cpp
